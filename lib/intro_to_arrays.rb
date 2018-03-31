@@ -22,7 +22,7 @@ def first_element_with_array_methods(south_east_asia)
 def my_last_element(last_country)
   last_country.last 
 end
-def last_element_with_array_methods(last_country)
+def last_element(last_country)
         last_country[-1]
   end
 
